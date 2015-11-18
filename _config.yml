@@ -1,0 +1,23 @@
+name: toddw
+favicon: null
+layout_spectrum: 0.3477527084760368
+typography_spectrum: 0.2080537904985249
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3025923741515726
+  lightness: 0.1182399052195251
+  saturation: 0.48132355278357863
+  rhythmicContrast: 0.026703302981331944
+purpose: []
