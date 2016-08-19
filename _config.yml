@@ -1,20 +1,4 @@
-name: toddw
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.15865
-title: Todd Site
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#48465b'
@@ -26,4 +10,24 @@ color:
   lightness: 0.1182399052195251
   saturation: 0.48132355278357863
   rhythmicContrast: 0.026703302981331944
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: toddw
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Visit This
+    url: 'http://showit.co'
+    type: external
+favicon: null
+title: Todd Site
 purpose: []
